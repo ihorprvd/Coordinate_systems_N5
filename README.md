@@ -188,5 +188,3 @@ class MedianFilter:
 - NumPy - генерація даних та обчислення
 - Matplotlib - візуалізація
 - SciPy - спектральний аналіз (FFT)
-#   C o o r d i n a t e _ s y s t e m s _ N 5  
- 
